@@ -1,2 +1,7 @@
-# Ecocycle
-Developed to provide users with an organized platform for learning upcycling techniques through tutorial videos. This idea was inspired by the growing need for accessible, structured learning resources on upcycling and sustainabilit
+# Ecocycle-firebase
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
